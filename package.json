@@ -1,0 +1,16 @@
+{
+  "name": "anotalk-chat-bot",
+  "version": "1.0.0",
+  "description": "poorly written prototype of chat bot for anotalk service",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "VibingCreator",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.6.0"
+  }
+}
